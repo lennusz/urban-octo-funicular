@@ -1,1 +1,1 @@
-# urban-octo-funicular
+Author: Lennusz (lennart.sieg@gmail.com)
